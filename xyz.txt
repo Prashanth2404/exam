@@ -1,1 +1,3 @@
 This is a test file for the second branch
+
+This line is added as part of ssh authentication
